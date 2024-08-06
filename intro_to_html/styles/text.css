@@ -1,0 +1,50 @@
+p {
+	font-family: Arial;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.header {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 20px;
+	width: 400px;
+	line-height: 25px;
+	margin-bottom: 5px;
+}
+.header1 {
+	font-family: Arial;
+	font-size: 14px;
+	color: grey;
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+.header2 {
+	font-family: Arial;
+	font-size: 14px;
+	color: grey;
+	margin-bottom: 20px;
+}
+.header3 {
+	font-family: Arial;
+	font-size: 14px;
+	color: grey;
+	width: 400px;
+	line-height: 20px;
+	margin-bottom: 50px;
+}
+.footer {
+	font-size: 16px;
+	background-color: red;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 16px;
+	padding-right: 16px;
+	text-align: center;
+}
+.shopnow {
+	cursor: pointer;
+}
+.shopnow:hover {
+	text-decoration: underline;
+}

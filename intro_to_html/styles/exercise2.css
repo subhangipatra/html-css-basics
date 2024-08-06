@@ -1,0 +1,84 @@
+p {
+	font-family: Montserrat;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+.new {
+	color: orange;
+	font-size: 15px;
+}
+.new1 {
+	font-size: 20px;
+}
+.new2 {
+	font-size: 30px;
+	font-weight: bold;
+}
+.new3 {
+	font-size: 12px;
+	margin-bottom: 20px;
+}
+
+.buy {
+	font-family: Montserrat;
+	background-color: blue;
+	color: white;
+	border: blue;
+	border-radius: 20px;
+	padding-top: 6px;
+	padding-left: 14px;
+	padding-bottom: 6px;
+	padding-right: 14px;
+	cursor: pointer;
+}
+.num1 {
+	margin-top: 50px;
+	font-size: 30px;
+	text-align: left;
+}
+.usd {
+	font-size: 15px;
+	color: grey;
+}
+.num2 {
+	color: green;
+	text-align: left;
+}
+.num3 {
+	color: grey;
+	text-align: left;
+	margin-bottom: 20px;
+}
+.num {
+	color: red;
+}
+.num4 {
+	text-align: left;
+}
+.num5 {
+	color: grey;
+	font-weight: normal;
+}
+.new5 {
+	width: 500px;
+	text-align: left;
+	margin-bottom: 20px;
+}
+.num6 {
+	text-align: left;
+}
+.num7 {
+	color: blue;
+}
+.new6 {
+	margin-top: 30px;
+	font-size: 50px;
+	text-align: left;
+}
+.num8 {
+	text-align: left;
+}
+.num9 {
+	text-decoration: underline;
+}

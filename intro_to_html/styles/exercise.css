@@ -1,0 +1,121 @@
+.link {
+	color: rgb(0, 113, 133);
+}
+.link:hover {
+	color: rgb(199, 81, 31);
+}
+
+.header {
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.price {
+	font-weight: bold;
+	color: rgb(0, 118, 0);
+}
+
+.Add-button {
+	background-color: rgb(255, 216, 20);
+	border: none;
+	border-radius: 16px;
+	height: 36px;
+	width: 150px;
+	margin-right: 8px;
+	cursor: pointer;
+}
+.Add-button:hover {
+	background-color: rgb(247, 202, 0);
+}
+.Add-button:active {
+	opacity: 0.5;
+}
+.Buy-button {
+	background-color: rgb(255, 164, 28);
+	border: none;
+	border-radius: 16px;
+	height: 36px;
+	width: 150px;
+	margin-right: 8px;
+	cursor: pointer;
+}
+.Buy-button:hover {
+	background-color: rgb(250, 137, 0);
+}
+.Buy-button:active {
+	opacity: 0.5;
+}
+.back-button {
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-right: 16px;
+	padding-left: 16px;
+}
+.next-button {
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-right: 16px;
+	padding-left: 16px;
+}
+.pagination {
+	padding: 0 5px;
+	color: #00f;
+}
+.mar10 {
+	margin-top: 40px;
+}
+.stretch-button {
+	background-color: green;
+	color: white;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-right: 16px;
+	padding-left: 16px;
+	border: none;
+	transition: padding 0.15s;
+	cursor: pointer;
+}
+.stretch-button:hover {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 26px;
+	padding-left: 26px;
+}
+.shadow-button {
+	background-color: green;
+	color: white;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-right: 16px;
+	padding-left: 16px;
+	border: none;
+	transition: padding 0.15s;
+	cursor: pointer;
+	box-shadow: 2px 2px 5px black(0 0 0 0.5s);
+}
+.shadow-button:active {
+	margin-top: 20px;
+	margin-left: 20px;
+	box-shadow: none;
+}
+
+.one-button {
+	background-color: green;
+	color: white;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-right: 10px;
+	padding-left: 10px;
+	border: none;
+	transition: padding 0.15s;
+	cursor: pointer;
+	margin-left: 10px;
+	margin-right: 10px;
+	transition: padding 0.15s, margin 0.15s;
+}
+.one-button:hover {
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
